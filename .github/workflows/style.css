@@ -1,0 +1,10 @@
+#ABC1212 {
+  position: absolute;
+  border: solid 2px orange;
+  top: 100px;
+  left: 100px;
+}
+
+#ico {
+  width: 300px;
+}
